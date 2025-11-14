@@ -50,7 +50,7 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://Kynnnnnna.github.io/)**
+To view a live example, **[click here](https://kynnnnnna.github.io/E444-F2025-PRA1/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
