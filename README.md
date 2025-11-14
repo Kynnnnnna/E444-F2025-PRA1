@@ -3,9 +3,9 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 
 > https://Kynnnnnna.github.io
 
-![GitHub stars](https://img.shields.io/github/stars/Kynnnnnna/Kynnnnnna.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/Kynnnnnna/Kynnnnnna.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Kynnnnnna/Kynnnnnna.github.io/commits/master)
+![GitHub stars](https://img.shields.io/github/stars/Kynnnnnna/E444-F2025-PRA1) 
+![GitHub forks](https://img.shields.io/github/forks/Kynnnnnna/E444-F2025-PRA1)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Kynnnnnna/E444-F2025-PRA1/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://Kynnnnnna.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/kyna-wu/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
