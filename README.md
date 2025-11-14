@@ -1,7 +1,7 @@
 # Kyna Wu's ECE444 Portfolio ⚡️ 
 This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
 
-> https://github.com/Kynnnnnna/E444-F2025-PRA1
+> https://kynnnnnna.github.io/E444-F2025-PRA1/
 
 ![GitHub stars](https://img.shields.io/github/stars/Kynnnnnna/E444-F2025-PRA1) 
 ![GitHub forks](https://img.shields.io/github/forks/Kynnnnnna/E444-F2025-PRA1)
@@ -13,7 +13,7 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://github.com/Kynnnnnna/E444-F2025-PRA1" target="_blank"><img src="/examples/Website Preview.gif">
+    <a href="https://kynnnnnna.github.io/E444-F2025-PRA1/" target="_blank"><img src="/examples/Website Preview.gif">
   </a>
   </kbd>
 </p>
@@ -50,7 +50,7 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://github.com/Kynnnnnna/E444-F2025-PRA1)**
+To view a live example, **[click here](https://kynnnnnna.github.io/E444-F2025-PRA1/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
